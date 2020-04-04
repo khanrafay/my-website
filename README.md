@@ -2,6 +2,4 @@
 
 Hey what happened??
 
-Updates in updates-readme branch
-
-More updates!! Some more tweeking 
+Updating readme file on Github before rebase
