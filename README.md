@@ -16,3 +16,7 @@ Wow!! i mean this is getting awesome
 ##Purpose
 
 I want to update readme and change the target commit of tag
+
+## Getting Started
+
+Hurrah i almost have learned Git :) ;)
